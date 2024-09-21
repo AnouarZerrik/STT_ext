@@ -1,0 +1,1 @@
+python -u "c:\Users\UTENTE\Desktop\Projects\STT_ext\STT_ext.py"
